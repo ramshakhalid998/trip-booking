@@ -1,0 +1,12 @@
+{
+  "name": "trip-booking",
+  "version": "1.0.0",
+  "description": "A small JavaScript project demonstrating defensive programming and stateful booking logic.",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
