@@ -4,7 +4,7 @@ A small JavaScript mini-project that demonstrates defensive programming, statefu
 =======
 # Trip Booking System (Javascript)
 
-A small JavaScript mini-project that demonstrates **defensive prgramming**, **stateful business logic** and **clear error handling**
+A small JavaScript mini-project that demonstrates **defensive programming**, **stateful business logic** and **clear error handling**
 
 ## Features
 - Books a trip by 'id'
